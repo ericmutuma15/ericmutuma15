@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericmutuma15
 - 👀 I’m interested in ... geospatial information systems analysis and data science
-- 🌱 I’m currently learning ...pandas and geopandas, dash plotly, dash leaflet, cartoFRAMES, folium libraries for python programming.
+- 🌱 I’m currently learning ...pandas and geopandas, dash plotly, dash leaflet, cartoFRAMES, folium libraries for python programming, artificial intelligence, JavaScript and PHP.
 - 💞️ I’m looking to collaborate on ...GIS projects and or data analysis projects, land surveying and data collection.
 - 📫 How to reach me ... ericmutuma15@gmail.com
 
