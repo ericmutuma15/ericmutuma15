@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @ericmutuma15
-- 👀 I’m interested in ... GIS systems, data analysis and computer science.
-- 🌱 I’m currently learning ...full stack and cloud engineering. 
-- 💞️ I’m looking to collaborate on ...GIS projects, data collection and analysis and full stack web development.
-- 📫 How to reach me ... ericmutuma15@gmail.com or through my personal cell +254798244545
+# 👋 Hi, I’m Mutuma
+
+---
+
+# 👀 I’m interested in 
+- Software Engineering
+- Data Analysis and
+- Geospatial Systems Dev.
+
+---
+
+# 🌱 I’m currently learning 
+- Flask
+- Restful API
+
+---
+
+# 💞️ I’m looking to collaborate on 
+- Software Development projects
+- Data collection and analysis
+- Geospatial systems development
+
+---
+
+
+# 📫 How to reach me 
+- **E-mail** : ericmutuma15@gmail.com 
+- **Phone** : +254798244545
+- **Portfolio** : shadowtech.netlify.app
 
 <!---
 ericmutuma15/ericmutuma15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
