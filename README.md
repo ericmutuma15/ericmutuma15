@@ -42,7 +42,7 @@ host this markdown on a GitHub Pages site or another environment where you can a
 <details>
   <summary>My Top 3 Repos</summary>
   
-  1. **[Online-Dating App](https://github.com/Mutuma/online-dating-app)**  
+  1. **[Online-Dating App](https://desirelink.vercel.app/)**  
      Flask + Vite-React; real-time chat, location, media upload  
   2. **[Chatbot Clinic](https://github.com/Mutuma/chatbot-clinic)**  
      NLP-powered symptom checker; Twilio integration  
